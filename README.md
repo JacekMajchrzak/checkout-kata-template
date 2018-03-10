@@ -20,11 +20,8 @@ Our checkout accepts items in any order, so that if we scan a B, an A, and anoth
 we’ll recognize the two B’s and price them at 45 (for a total price so far of 95). 
 Because the pricing changes frequently, we need to be able to pass in a set of pricing rules each time we start handling a checkout transaction.
 
-The interface to the checkout should look like:
+To begin your work checkout repository and run npm install.
 
-`co = CheckOut.new(pricing_rules)
-co.scan(item)
-co.scan(item)
-    :    :
-price = co.total`
+To run tests enter command:
+npm run test
 
