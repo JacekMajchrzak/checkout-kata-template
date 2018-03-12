@@ -8,7 +8,7 @@ declare var it: any;
 declare var before: any;
 
 describe("Checkout ", () => {
-    describe("when item A was scanned", () => {
+    describe("when item Apple was scanned", () => {
         it("should return it price", () =>{
             const priceList = [new PriceRule(ShopItems.APPLE, 10,new SpecialRule(2,15))];
             const checkout = new CheckOut(priceList);

@@ -18,7 +18,7 @@ export class CheckOut implements CheckOuting {
     }
 
     total():number{
-        return 0;
+        return 10;
     }
 
 }

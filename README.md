@@ -25,3 +25,47 @@ To begin your work checkout repository and run npm install. Set javascript langu
 To run tests enter command:
 npm run test
 
+----------------------------
+**COMPETITION**
+
+Your team is gathering one point for use of every listed below good practice:
+
+**SOLID:**
+Single Responsibility Principle
+Open Closed Principle
+Liskov Substitution Principle  
+Interface Segregation Principle
+Dependency Inversion principle
+**CLEAN CODE**
+Law of Demeter (train wrecks)
+Domain Naming
+**GRASP**
+controller
+Creator
+High cohesion
+Indirection
+Information expert
+Low coupling
+Polymorphism
+Protected Variations
+Pure fabrication
+**GOF DESIGN PATTERNS**
+Builder pattern
+Factory method pattern 
+Adapter 
+Bridge 
+Composite 
+Decorator 
+Facade 
+Flyweight 
+Proxy
+Chain of responsibility
+Command
+Interpreter
+Mediator
+Memento
+Observer
+State
+Strategy
+Template method
+Visitor
